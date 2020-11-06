@@ -25,13 +25,13 @@
     </style>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>apache02</title>
+    <title>openshift</title>
 </head>
 
 <body>
     <div class="header">
 <?php
-echo "<h1>Openshift Workshop v4</h1> ";
+echo "<h1>Openshift test redhat aroque v4</h1> ";
 echo $_SERVER['SERVER_ADDR']
 ?>
     </div>
