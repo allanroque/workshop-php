@@ -31,7 +31,6 @@
 <body>
     <div class="header">
 <?php
-<?php
 echo "<h1>Openshift Workshop v2.0</h1> ";
 echo $_SERVER['SERVER_ADDR'];
 echo "<br><hr>";
@@ -49,9 +48,7 @@ if ($result->num_rows > 0) {
     echo "0 results";
 }
 $conn->close();
-?>
-?>
-        
+?>     
     </div>
 </body>
 
