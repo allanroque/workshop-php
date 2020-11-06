@@ -25,7 +25,7 @@
     </style>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>apache02</title>
+    <title>Red Hat</title>
 </head>
 
 <body>
